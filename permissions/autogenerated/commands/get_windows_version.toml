@@ -1,0 +1,13 @@
+# Automatically generated - DO NOT EDIT!
+
+"$schema" = "../../schemas/schema.json"
+
+[[permission]]
+identifier = "allow-get-windows-version"
+description = "Enables the get_windows_version command without any pre-configured scope."
+commands.allow = ["get_windows_version"]
+
+[[permission]]
+identifier = "deny-get-windows-version"
+description = "Denies the get_windows_version command without any pre-configured scope."
+commands.deny = ["get_windows_version"]

@@ -1,0 +1,5 @@
+"$schema" = "schemas/schema.json"
+
+[default]
+description = "Default permissions for the plugin"
+permissions = ["allow-get-windows-version", "allow-is-windows-7", "allow-is-windows-8", "allow-is-windows-10", "allow-is-windows-11"]

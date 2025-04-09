@@ -1,0 +1,13 @@
+# Automatically generated - DO NOT EDIT!
+
+"$schema" = "../../schemas/schema.json"
+
+[[permission]]
+identifier = "allow-is-windows-10"
+description = "Enables the is_windows_10 command without any pre-configured scope."
+commands.allow = ["is_windows_10"]
+
+[[permission]]
+identifier = "deny-is-windows-10"
+description = "Denies the is_windows_10 command without any pre-configured scope."
+commands.deny = ["is_windows_10"]
