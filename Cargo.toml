@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-windows-version"
-version = "1.0.0"
+version = "2.0.0"
 authors = [ "ayangweb" ]
 description = "Get the version number of the current Windows OS."
 repository = "https://github.com/ayangweb/tauri-plugin-windows-version"
