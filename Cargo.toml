@@ -1,8 +1,11 @@
 [package]
 name = "tauri-plugin-windows-version"
-version = "0.1.0"
-authors = [ "You" ]
-description = ""
+version = "1.0.0"
+authors = [ "ayangweb" ]
+description = "Get the version number of the current Windows OS."
+repository = "https://github.com/ayangweb/tauri-plugin-windows-version"
+keywords = ["tauri", "tauri-plugin", "windows-version"]
+license = "MIT"
 edition = "2021"
 rust-version = "1.77.2"
 exclude = ["/examples", "/dist-js", "/guest-js", "/node_modules"]

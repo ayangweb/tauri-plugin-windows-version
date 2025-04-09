@@ -1,8 +1,20 @@
 {
   "name": "tauri-plugin-windows-version-api",
-  "version": "0.1.0",
-  "author": "You",
-  "description": "",
+  "version": "1.0.0",
+  "author": "ayangweb",
+  "description": "Get the version number of the current Windows OS.",
+  "keywords": [
+    "tauri",
+    "tauri-plugin",
+    "windows-version"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayangweb/tauri-plugin-windows-version.git"
+  },
+  "homepage": "https://github.com/ayangweb/tauri-plugin-windows-version#readme",
+  "bugs": "https://github.com/ayangweb/tauri-plugin-windows-version/issues",
+  "license": "MIT",
   "type": "module",
   "types": "./dist-js/index.d.ts",
   "main": "./dist-js/index.cjs",
